@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#minecraft:beds",
+    "#minecraft:shulker_boxes",
+    "#minecraft:bundles",
+    "minecraft:rabbit_stew",
+    "minecraft:mushroom_stew",
+    "minecraft:beetroot_soup",
+    "minecraft:suspicious_stew",
+    "minecraft:totem_of_undying"
+  ]
+}

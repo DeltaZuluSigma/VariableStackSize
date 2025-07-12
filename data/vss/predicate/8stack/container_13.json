@@ -1,0 +1,34 @@
+{
+  "condition": "minecraft:all_of",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "slots": {
+            "container.13": {
+                "items": "#vss:stack_to_8"
+            }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "slots": {
+            "container.13": {
+              "components": {
+                "minecraft:custom_data": {
+                  "variablestacksize": 8
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

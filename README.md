@@ -1,0 +1,1 @@
+* Repurposed Jodek's Bigger Stack Size Datapack for personal use

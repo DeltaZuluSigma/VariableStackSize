@@ -1,0 +1,1 @@
+tellraw @a [{"text":"This is a personal prototype. Use at your own risk (MIT License)."}]

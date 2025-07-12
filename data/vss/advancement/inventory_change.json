@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "inventory_change": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "function": "vss:invcheck"
+  }
+}
