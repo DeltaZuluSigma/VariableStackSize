@@ -1,7 +1,6 @@
 {
   "pack": {
     "pack_format": 48,
-    "supported_formats": [48, 81],
     "description": [
       {
         "text": "More stack size brackets."

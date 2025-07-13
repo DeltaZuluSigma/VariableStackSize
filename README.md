@@ -1,1 +1,1 @@
-* Repurposed Jodek's Bigger Stack Size Datapack for personal use
+* Repurposed Jodek's [Bigger Stack Size](https://modrinth.com/datapack/bigger-stack-size) datapack for personal use
